@@ -51,9 +51,15 @@ font-size: 0.8em;
     font-size: 20px;
 
 }
-
-#post 
+#post
 {
-    background: rgb(243, 237, 237);
-    padding: 1em;
+	padding: 1em;
+}
+
+#footer
+{
+	background: #777;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
 }
